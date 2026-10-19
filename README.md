@@ -55,3 +55,10 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/simrana-portfolio/Datheon-Python-Internship.git
    a85792c..3b484c7  main -> main
 PS C:\Users\ADMIN\Desktop\Datheon_Python_Internship> 
+
+## Task 4: Customer Support Chatbot
+- Rule-based customer support chatbot.
+- Uses regular expressions to identify user queries.
+- Answers questions about business hours, products, delivery, and returns.
+- Provides fallback responses for unknown queries.
+- Supports exit commands such as bye, exit, and quit.
